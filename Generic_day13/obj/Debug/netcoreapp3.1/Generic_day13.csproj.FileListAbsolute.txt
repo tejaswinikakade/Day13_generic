@@ -1,0 +1,14 @@
+D:\assigment\Generic_day13\Generic_day13\bin\Debug\netcoreapp3.1\Generic_day13.exe
+D:\assigment\Generic_day13\Generic_day13\bin\Debug\netcoreapp3.1\Generic_day13.deps.json
+D:\assigment\Generic_day13\Generic_day13\bin\Debug\netcoreapp3.1\Generic_day13.runtimeconfig.json
+D:\assigment\Generic_day13\Generic_day13\bin\Debug\netcoreapp3.1\Generic_day13.runtimeconfig.dev.json
+D:\assigment\Generic_day13\Generic_day13\bin\Debug\netcoreapp3.1\Generic_day13.dll
+D:\assigment\Generic_day13\Generic_day13\bin\Debug\netcoreapp3.1\Generic_day13.pdb
+D:\assigment\Generic_day13\Generic_day13\obj\Debug\netcoreapp3.1\Generic_day13.csproj.AssemblyReference.cache
+D:\assigment\Generic_day13\Generic_day13\obj\Debug\netcoreapp3.1\Generic_day13.GeneratedMSBuildEditorConfig.editorconfig
+D:\assigment\Generic_day13\Generic_day13\obj\Debug\netcoreapp3.1\Generic_day13.AssemblyInfoInputs.cache
+D:\assigment\Generic_day13\Generic_day13\obj\Debug\netcoreapp3.1\Generic_day13.AssemblyInfo.cs
+D:\assigment\Generic_day13\Generic_day13\obj\Debug\netcoreapp3.1\Generic_day13.csproj.CoreCompileInputs.cache
+D:\assigment\Generic_day13\Generic_day13\obj\Debug\netcoreapp3.1\Generic_day13.dll
+D:\assigment\Generic_day13\Generic_day13\obj\Debug\netcoreapp3.1\Generic_day13.pdb
+D:\assigment\Generic_day13\Generic_day13\obj\Debug\netcoreapp3.1\Generic_day13.genruntimeconfig.cache
